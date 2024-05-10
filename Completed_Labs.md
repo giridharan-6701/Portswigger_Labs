@@ -1,4 +1,4 @@
-![image](https://github.com/giridharan-6701/Portswigger_Labs/assets/94190302/2eef018e-f1ae-4680-aba7-0b10e2a4a098)### 1. SQL Injection
+### 1. SQL Injection
 ---
 ![image](https://github.com/giridharan-6701/Portswigger_Labs/assets/94190302/3de926f0-28fd-4b58-8837-4d9dcddedca6)
 ![image](https://github.com/giridharan-6701/Portswigger_Labs/assets/94190302/7d2bfa35-b935-4190-8df8-63dfe872fc1b)
